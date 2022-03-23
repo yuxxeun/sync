@@ -1,0 +1,54 @@
+{
+  "workbench.editor.showTabs": false,
+  "blade.format.enable": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "workbench.activityBar.visible": false,
+  "workbench.statusBar.visible": false,
+  "workbench.iconTheme": "vikings-icon-theme",
+  "workbench.colorTheme": "Dracula",
+  "search.mode": "reuseEditor",
+  "terminal.integrated.automationShell.windows": "C:\\Program Files\\Git\\git-bash.exe",
+  "editor.fontSize": 15,
+  "editor.fontFamily": "JetBrains Mono, Fira Code, Space Mono",
+  "editor.fontLigatures": true,
+  "editor.renderLineHighlight": "none",
+  "editor.matchBrackets": "never",
+  "editor.occurrencesHighlight": false,
+  "editor.renderIndentGuides": false,
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+  "editor.renderWhitespace": "none",
+  "editor.lineHeight": 29,
+  "bracketPairColorizer.showVerticalScopeLine": false,
+  "editor.tokenColorCustomizations": null,
+  "vikings-icon-theme.folders.color": "#fff",
+  "terminal.integrated.profiles.windows": {
+    "PowerShell": {
+      "source": "PowerShell"
+    },
+    "Command Prompt": {
+      "path": [
+        "${env:windir}\\Sysnative\\cmd.exe",
+        "${env:windir}\\System32\\cmd.exe"
+      ],
+      "args": []
+    },
+    "Git Bash": {
+      "source": "Git Bash"
+    }
+  },
+  "window.menuBarVisibility": "compact",
+  "vikings-icon-theme.opacity": 1,
+  "workbench.startupEditor": "none",
+  "kite.showWelcomeNotificationOnStartup": false,
+  "files.autoSave": "onWindowChange",
+  "terminal.integrated.fontFamily": "JetBrains Mono",
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "explorer.confirmDelete": false,
+  "editor.smoothScrolling": true,
+  "svelte.enable-ts-plugin": true
+}
