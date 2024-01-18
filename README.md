@@ -1,2 +1,2 @@
-# zea
-😈 i just want to save my dotfiles. because we are the king in our castle, isn' it?
+# Sync 
+**sync** is repository for synchronizing-thing that i need on my device and also  my personal project mostly. If you want to do the same that i do, feel free take a look and make `pull request` just in case you have (and want) interesting thing to share (like: `image`, `font` or even `shell scripting`)
